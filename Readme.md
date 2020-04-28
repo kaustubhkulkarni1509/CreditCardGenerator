@@ -9,4 +9,4 @@ for example - java -jar .\CreditCardGenerator.one-jar.jar C:\Users\Kaustubh\Down
 #### 7. Comprehensive test cases are written in src/test/java
 #### 8. Input and output file must have same extension and have a valid file path. If not program will give appropriate message and won't proceed further.
 #### 9. Sample Input/Output screenshots
-
+![](screenshots/PRogramExecutionScreenshot1.png)
