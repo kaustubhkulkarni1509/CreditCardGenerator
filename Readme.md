@@ -6,3 +6,7 @@
 #### 5. You can run the jar by using following command => java -jar CreditCardGenerator.one-jar.jar <InputFilePath\> <OutputFilePath\> (Please use fully Qualified Paths for Input and Output).
 for example - java -jar .\CreditCardGenerator.one-jar.jar C:\Users\Kaustubh\Downloads\Sample.csv C:\Users\Kaustubh\Downloads\Sample.csv 
 #### 6. The File paths Should be specified or else you will get message on the console. If the file path is incorrect you will get an exception, with an appropriate message on the console.
+#### 7. Comprehensive test cases are written in src/test/java
+#### 8. Input and output file must have same extension and have a valid file path. If not program will give appropriate message and won't proceed further.
+#### 9. Sample Input/Output screenshots
+
